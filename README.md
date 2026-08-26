@@ -2,7 +2,8 @@
 
 Curious, self-taught builder and systems explorer. I create client-facing digital products across design, strategy and systems architecture.
 
-My work combines commercially grounded product thinking with **custom interactive 3D experiences**: visual systems conceived to carry a brand idea, guide attention and create memorable digital journeys — not decorative effects applied after the fact.
+My work combines commercially grounded product thinking with **custom interactive 3D experiences**: visual systems conceived to carry a brand idea, guide attention and create memorable digital journeys — not decorative effects applied after the fact. I am particularly strong at organising systems that make practical sense. I do not create beautiful interfaces or feature-heavy tools with no real purpose. I simplify everything as far as possible so that people can use it naturally in their day-to-day work. If a tool needs a manual to be understood, it has not been designed well enough.
+
 
 ## Signature capability — custom 3D interaction
 
