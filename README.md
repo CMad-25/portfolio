@@ -57,9 +57,19 @@ Editorial and learning platform for real estate professionals, rebuilt from a le
 
 Bilingual conversion-focused landing page for a residential development.
 
-- Live example: [portocovo.hhoras.com](https://portocovo.hhoras.com)
+- Live example: https://risco.pc.hhoras.com/
+
+
+
+
+
+
+
 
 ## Private product suite
+
+  <img width="1919" height="903" alt="Office" src="https://github.com/user-attachments/assets/3e4d282a-fc58-4830-a8ef-b4945b93b170" />
+  
 
 - **Property Prospecting Platform** — automated lead sourcing, opportunity pipeline and property documentation.
 - **Market Study & Investment Case Studio** — valuation, investment analysis and financial viability studies.
